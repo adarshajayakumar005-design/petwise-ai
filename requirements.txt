@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 requests
 transformers
 torch
+=======
+streamlit
+requests
+
+>>>>>>> cf93035c352cf7e33137007739b4cdd359e20a02
